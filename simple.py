@@ -1,0 +1,1 @@
+print("wahid ali! this worlds belong to you!")
