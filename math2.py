@@ -1,0 +1,10 @@
+x = int(input("enter the first number"))
+y = int(input("enter the second number"))
+z = int(input("enter the third number"))
+a = int(input("enter the fourth number"))
+b = int(input("enter the fifth number"))
+
+c = min(x , y , z , a , b)
+d = max(x , y , z , a , b)
+print("Smallest : " , c)
+print("Largest : " , d)
