@@ -11,7 +11,10 @@ class Calculator:
         return a / b
     
 p1 = Calculator()
+p2 = Calculator()
+p3 = Calculator()
+p4 = Calculator()
 p1.add(11 , 11)
-p1.subtract(11 , 11)
-p1.multiply(11 , 11)
-p1.divide(11 , 11)
+p2.subtract(11 , 11)
+p3.multiply(11 , 11)
+p4.divide(11 , 11)
