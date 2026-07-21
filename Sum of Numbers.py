@@ -1,6 +1,5 @@
 i = 0
 while i <= 100:
-    for x in i:
-        sums = sum(x)
+    sums = sum(i)
 
-    print(sums)
+print(sums)
