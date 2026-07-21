@@ -1,7 +1,8 @@
-i = 0 
-table = 0
+i = 1 
+table = 1
 while i <= 10:
-    tables = table * i
     i += 1
+    table = table * i
+    
 
-print(tables)
+print(table)
