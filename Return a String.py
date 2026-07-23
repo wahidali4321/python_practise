@@ -1,5 +1,5 @@
 def greet(name):
-    return "Hi , this  , " , name
+    return f"this is {name}"
 
 result = greet("wahid ali")
 print(result)
