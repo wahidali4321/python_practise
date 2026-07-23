@@ -1,5 +1,5 @@
-def square(length , width):
-    return length * width
+def square(meter):
+    return meter * meter
 
-result = square(11 , 11)
+result = square(11)
 print(result)
