@@ -7,4 +7,4 @@ if city1 > city2 :
     print(f"{city1} is lengther ")
 
 else:
-    print(f"{city2} is lengther ")
+    print(f"{city2} is lengther")
