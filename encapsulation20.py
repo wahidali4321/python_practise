@@ -4,7 +4,7 @@ class person:
         self.__age = age
 
     def get_age(self):
-        return self.get_age
+        return self.__age
 
 p1 = person("wahid ali " , 22)
 print(p1.name)
